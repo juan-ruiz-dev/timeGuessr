@@ -18,3 +18,10 @@ body {
     background-color: #e7c950;
     
 }
+
+.bg-dark {
+    background-color: black;
+}
+a{
+    color: #ffde58 !important
+}
